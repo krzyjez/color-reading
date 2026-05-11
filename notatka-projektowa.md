@@ -132,3 +132,8 @@ Do późniejszego, systematycznego omówienia pozostają między innymi:
 5. Jak decydować o przejściu do kolejnego etapu.
 6. Jak zapisywać informacje o klikniętych trudnych wyrazach.
 7. Jak na podstawie tych informacji dostosowywać kolory albo stopień uproszczenia liter.
+
+
+
+Przykłady popularnych narzędzi WCAG Accessibility Checker:
+Palette Checker — specjalizuje się w sprawdzaniu kontrastu kolorów i palet barw.
